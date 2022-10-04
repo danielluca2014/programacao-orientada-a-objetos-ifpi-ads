@@ -1,0 +1,11 @@
+Exercício 02
+
+1. Na tipagem estática, o desenvolvedor precisa informar explicitamente o tipo de cada dado utilizado no sistema;
+
+Na tipagem dinâmica, o programa determina a tipagem observando qual é o tipo de cada dado que está sendo declarado do código.
+
+2. A tipagem dinâmica pode levar a erros de runtime (tempo de execução). Além disso, erros de tipagem geralmente são mais difíceis de localizar.
+
+5. Na migração de um projeto JavaScript para TypeScript, podem existir algumas variáveis dinâmicas com diferentes tipos atribuídos. Nessa situação o tipo any poderia ser benéfico.
+
+6. Não, pois todos os valores numéricos no TypeScript são de ponto flutuante, recebendo o tipo number.

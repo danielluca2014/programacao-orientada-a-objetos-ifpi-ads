@@ -1,0 +1,38 @@
+Exercício 01
+
+1. A classe é um modelo, uma planta de algo a ser construído. É algo abstrato. O objeto é a materialização da classe, algo mais concreto e físico. É uma instância da classe.
+
+2. Atributos são as propriedades que os objetos possuem. Os métodos são as ações que os objetos podem realizar.
+
+Ex. 
+Carro:
+Atributos: Marca, Modelo, Cor, Ano.
+Métodos: Ligar, Acelerar, Desligar.
+
+3. 
+Peso: Atributos de um carro, características de uma pessoa.
+Tipo de CNH: Registros em certas profissões.
+Tipo Sanguíneo: Cadastro em hospitais.
+Habilidade destra: Esportes.
+Percentual de gordura: Aplicativos de saúde física, exames hospitalares.
+Saldo em conta: Sistema bancário.
+Etnia: Cadastros em sites do governo.
+
+4.
+a. Sim, para termos uma referência à pessoa titular da conta.
+b. Sim, pois poderíamos estar ciente de todas as contas que uma pessoa possui.
+
+5. Professores, matrículas, disciplinas, notas, médias.
+
+6.
+Personagem:
+Atributos: Nome, Gênero, Características físicas, Classe
+Métodos: Andar, Correr, Pular, Agachar, Usar habilidade
+
+Habilidade:
+Atributos: Nome, Tipo, Nível, Dano.
+Métodos: Ativar, Desativar.
+
+Missão:
+Atributos: Nome, Objetivo, Dificuldade, Recompensa.
+Métodos: Pegar missão, Excluir missão, Rastrear missão.
