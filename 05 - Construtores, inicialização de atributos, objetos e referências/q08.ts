@@ -47,6 +47,3 @@ console.log(c1.transferir(c2, 60));
 
 console.log(c1.consultarSaldo());
 console.log(c2.consultarSaldo());
-
-
-

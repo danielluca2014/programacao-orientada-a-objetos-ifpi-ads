@@ -1,0 +1,21 @@
+01. Sim, pois sem um método construtor, a variável precisa ser inicializada. Além disso, o acesso a atributos e métodos 
+dentro da própria classe devem ser feitos usando "this".
+
+03. A inicilização do atributo "volume" não foi feita através do método construtor definido. Nesse caso o valor deve ser 
+passado como um parâmetro do construtor.
+
+class Radio {
+    volume : number;
+    constructor(volume : number) {
+        this.volume = volume;
+    }
+}
+
+let r : Radio = new Radio(10);
+
+04. a. Os "prints" irão exibir o mesmo resultado para c1, c2, c3, por conta da atribuição de valores entre si. Dessa forma,
+essas variáveis vão apontar para um mesmo objeto do tipo Conta e qualquer alteração em uma delas resultará na alteração das outras.
+
+b. O objeto que era apontado por c1 é perdido e será excluído da memória, liberando espaço.
+
+10. As duas estão corretas, por uma abordagem poder complementar a outra.

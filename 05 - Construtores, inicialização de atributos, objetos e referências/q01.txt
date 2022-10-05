@@ -1,9 +1,0 @@
-01. Sim, pois sem um método construtor, a variável precisa ser inicializada. Além disso, o acesso a atributos 
-e métodos dentro da própria classe devem ser feitos usando "this".
-
-class Hotel {
-    quantReservas: number;
-    adicionarReserva(): void {
-        quantReservas++;
-    }
-}
